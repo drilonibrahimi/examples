@@ -12,7 +12,7 @@
     "axios": "^0.18.0",
     "express": "^4.16.4",
     "pg": "^7.7.1",
-    "pg-connection-string": "^2.0.0",
+    "pg-connection-string": "^2.5.0",
     "serverless-http": "^1.8.0"
   }
 }
